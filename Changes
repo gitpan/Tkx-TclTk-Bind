@@ -1,0 +1,5 @@
+Revision history for Perl extension Tkx::TclTk::Bind.
+
+1.0.00  Mon Dec 17 14:31:01 2012
+	- original version; created by h2xs 1.23 with options
+		-XA -n Tkx::TclTk::Bind
