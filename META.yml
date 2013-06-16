@@ -19,10 +19,11 @@ no_index:
     - inc
 requires:
   Archive::Tar: 0
+  Config: 0
   Const::Fast: 0
   English: 0
   Exporter: 0
   File::Remove: 0
   File::Spec: 0
   Tkx: 0
-version: v1.0.00
+version: v1.2.01
